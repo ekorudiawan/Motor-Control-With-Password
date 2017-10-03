@@ -1,0 +1,20 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+nomorPin                                                          0x029B       5
+password                                                          0x02A0       5
+_base_y                                                           0x02A5       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+panjangPin                                                        R4,R5        2
+countSalah                                                        R6,R7        2
+counter                                                           R8,R9        2
+_lcd_x                                                            R11          1
+_lcd_y                                                            R10          1
+_lcd_maxx                                                         R13          1
